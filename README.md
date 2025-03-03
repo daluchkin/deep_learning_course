@@ -6,7 +6,7 @@
 These are my personal learning notes and experiments conducted while going through the course [Deep Learning A-Z 2025: Neural Networks, AI](https://www.udemy.com/course/deeplearning/) on Udemy.
 
 
-### **Artificial Neural Networks (ANN)**
+### **Part 1: Artificial Neural Networks (ANN)**
 An artificial neural network (ANN) is a computational model inspired by the human brain, consisting of interconnected nodes (neurons) that process data through weighted connections to recognize patterns and make predictions.\
 [Go to code >>](./01_ANN/)
 
