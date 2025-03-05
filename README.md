@@ -3,7 +3,7 @@
 # Deep Learning A-Z 2025: Neural Networks, AI
 
 
-These are my personal learning notes and experiments conducted while going through the course [Deep Learning A-Z 2025: Neural Networks, AI](https://www.udemy.com/course/deeplearning/) on Udemy.
+These are my personal learning notes and personal experiments conducted while going through the course [Deep Learning A-Z 2025: Neural Networks, AI](https://www.udemy.com/course/deeplearning/) on Udemy, along with additional advanced material I explored to deepen my understanding.
 
 
 - [**Artificial Neural Networks (ANNs)**](./01_Artificial_Neural_Networks_ANNs/ANN.ipynb)\
