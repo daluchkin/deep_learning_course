@@ -12,5 +12,8 @@ These are my personal learning notes and personal experiments conducted while go
 - [**Convolutional Neural Networks (CNNs)**](./02_Convolutional_Neural_Networks_CNNs/CNN.ipynb)\
   **CNNs** specialize in processing visual data, enabling tasks like image classification, object detection, and facial recognition.
 
+- [**Recurrent Neural Networks (RNNs)**](./02_Recurrent_Neural_Networks_RNNs/RNN.ipynb)\
+  **RNN** is a type of neural network designed for sequential data processing, where connections between nodes allow information to persist across time steps, making it useful for tasks like time series forecasting, natural language processing, and speech recognition.
+
 
 [Portfolio](https://github.com/daluchkin/data-analyst-portfolio) |  [Projects](https://github.com/daluchkin/data-analyst-portfolio/blob/main/projects.md) | [Certificates](https://github.com/daluchkin/data-analyst-portfolio/blob/main/certificates.md) | [Contacts](https://github.com/daluchkin/data-analyst-portfolio#my_contacts)
